@@ -1,4 +1,4 @@
-## Olá, eu sou o Felipe Turra 😁
+## Olá, eu sou o Felipe Turra 🦈
 
 <div>
   <a href="https://github.com/FelipeTurra"></a>
