@@ -3,7 +3,6 @@
 <div>
   <a href="https://github.com/FelipeTurra"></a>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FelipeTurra&show_icons=true&theme=radical&include_all_commits=true&count_private=true&border_radius=0&hide_border=true&bg_color=00000000&card_width=500px"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeTurra&layout=compact&langs_count=6&theme=radical&border_radius=0&hide_border=true&bg_color=00000000&card_width=800px"/>
 </div>
     
 <div style="display:inline_block">
